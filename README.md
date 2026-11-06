@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Merve 👋
 
-<!--
-**mervecatalkaya/mervecatalkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineer** passionate about Artificial Intelligence, Multi-Agent Systems, and Software Architecture.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Languages:** Python, C#, Dart, SQL
+- **Frameworks & Tools:** FastAPI, Flask, PyTorch, LangChain / LangGraph, Flutter, .NET Core
+- **Data & AI:** scikit-learn, Pandas, NumPy, Faster-Whisper, Pyannote
+- **DevOps & Platforms:** Docker, Git, MySQL, SQL Server
+
+---
+
+### 📌 Focus Areas
+- 🤖 Building multi-agent workflows & LLM-based solutions
+- 📱 Cross-platform mobile development with Flutter
+- ⚡ High-performance backend API design
+
+---
+
+📫 **Connect with me:**
+- 💼 [LinkedIn](https://www.linkedin.com/in/merve-%C3%A7atalkaya-249428270/)
+- 📧 [mervecatalkaya9124@gmail.com](mailto:mervecatalkaya9124@gmail.com)
